@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  },
+
+  "scripts": {
+    "cy:open:site1": "cypress open --config-file cypress.config.js",
+    "cy:open:site2": "cypress open --config-file cypress.config.site2.js",
+  
+    "cy:run:site1": "cypress run --config-file cypress.config.js",
+    "cy:run:site2": "cypress run --config-file cypress.config.site2.js"
+  }
+}

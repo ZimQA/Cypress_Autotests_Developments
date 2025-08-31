@@ -1,0 +1,7 @@
+{
+    "email":"#k_email",
+    "password":"#k_password",
+    "voiti":".MuiButton-root",
+    "card_trainer":".header_card_trainer",
+    "smena_avatara": "[data-qa=\"shop\"]"
+}
