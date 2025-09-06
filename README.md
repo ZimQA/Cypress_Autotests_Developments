@@ -3,7 +3,6 @@
 [![Cypress](https://img.shields.io/badge/Cypress-12.7.0-brightgreen)](https://www.cypress.io/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-16%2B-success)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Multi-Site](https://img.shields.io/badge/Testing-Multi--Site-orange)](https://github.com/ZimQA/Cypress_Autotests_Developments)
 
 Профессиональный фреймворк для автоматизации end-to-end (E2E) тестирования веб-приложений. Этот проект демонстрирует лучшие практики написания стабильных и поддерживаемых автотестов с использованием современного стека технологий. 🧪
@@ -89,7 +88,7 @@ Cypress_Autotests_Developments/
 
 ## 🎯 Поддерживаемые проекты
 
-### 🌐 **Site 1: QA Studio Login** (`cypress.config.js`)
+### 🌐 **Site 1: Login** (`cypress.config.js`)
 - **URL**: https://login.qa.studio
 - **Назначение**: Тестирование системы аутентификации
 - **Тесты**: Полный цикл авторизации и восстановления пароля
