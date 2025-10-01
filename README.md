@@ -59,12 +59,12 @@ Cypress_Autotests_Developments/
 ├── cypress/                          # Основная директория Cypress
 │   ├── downloads/                    # Скачанные файлы
 │   ├── e2e/                         # Тестовые спецификации
-│   │   ├── login_site/              # Тесты для QA Studio
+│   │   ├── login_site/              # Тесты
 │   │   │   ├── negativ_login.cy.js      # Негативные сценарии
 │   │   │   ├── positive_login.cy.js     # Позитивные сценарии
 │   │   │   ├── priveden_k_stroch_bukv.cy.js # Валидация логина
 │   │   │   └── vosstanov_pass.cy.js     # Восстановление пароля
-│   │   └── pokemons/                # Тесты для Pokemon Battle
+│   │   └── pokemons/                # Тесты
 │   │       └── pokypka_avatara.cy.js    # E2E сценарий покупки
 │   ├── fixtures/                     # Статические тестовые данные
 │   ├── locators/                     # Локаторы в JSON-формате
@@ -80,8 +80,8 @@ Cypress_Autotests_Developments/
 │   │   ├── commands.js               # Базовые команды Cypress
 │   │   └── e2e.js                    # Глобальные настройки
 │   └── videos/                       # Видео выполнения тестов
-├── cypress.config.js                 # Конфиг для QA Studio
-├── cypress.config.site2.js           # Конфиг для Pokemon Battle
+├── cypress.config.js                 # Конфиг 1
+├── cypress.config.site2.js           # Конфиг 2
 ├── package.json                      # Зависимости и скрипты
 └── README.md                         # Документация
 ```
